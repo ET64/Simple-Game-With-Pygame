@@ -1,4 +1,4 @@
-#Simple Snake Game by ET64 or reversal_lava63
+#Simple Space Adventure Game by ET64 or reversal_lava63
 
 import pygame
 import random
