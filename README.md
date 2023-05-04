@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
 * {
 color: #ffffff
 }
@@ -95,7 +95,7 @@ border-radius:5px;
 70%  {transform: rotate(0deg);left:500px;background:#167a8b;}
 100% {transform: rotate(-360deg);left:0px;}
 }
-  </style>
+</style>
 </head>
 <body>
   <h1 id="animated_div" style="text-align: center"> Simple game using the pygame module in python. </h1>
