@@ -12,7 +12,7 @@
 <br>
 After installing python, if you don't have pygame installed, open your default terminal and paste this code: pip install pygame.
 <br>
-Now, copy paste all the code from the file "main.py" to your default text editor. Finally, run the file!!!
+Now, copy paste all the code from the file "main.py" to your default text editor. Save the file as ".py". Finally, run the file!!!
 <br> </p>
   <h4> Thank you for visiting. I'm Ewnet and this is ET64. </h4>
   </body>
